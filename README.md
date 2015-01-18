@@ -12,3 +12,5 @@ a few minutes to download all the libraries and the compiler. Have coffee. If yo
 see why some of us like Scala, use `sbt ~test` and watch the retest as you edit.
 
 Good luck....
+
+Thanks to [S-99](http://aperiodic.net/phil/scala/s-99/) and [Josh Sureth](https://github.com/jsuereth/scala-99-puzzles) for the problems, solutions and inspiration.
